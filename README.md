@@ -1,8 +1,5 @@
 # 2022_Capstone_Design
 
-## Code Update
-- 
-
 ## 목적
 - 
 
