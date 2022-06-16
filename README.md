@@ -1,8 +1,10 @@
-# 2022_Capstone_Design
+# 2022학년도 1학기 캡스톤 디자인
 
-## Note!
+### Note!
 - 공유되는 코드는 기능 구현 부분임.
 - Detection 학습 및 검출 모델, 서버 연동 부분은 협업 회사 계약 상 이유로 공유가 불가능
+
+## 본문
 
 ![슬라이드1](https://user-images.githubusercontent.com/62232217/174147689-dd8ed62f-fa54-4763-b20d-99314eec48e9.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/62232217/174147697-83c43079-c470-4a9a-8f0c-75893f3cb2a2.JPG)
