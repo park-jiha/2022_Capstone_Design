@@ -1,5 +1,6 @@
 # 2022_Capstone_Design
 
+
 ![슬라이드1](https://user-images.githubusercontent.com/62232217/174147689-dd8ed62f-fa54-4763-b20d-99314eec48e9.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/62232217/174147697-83c43079-c470-4a9a-8f0c-75893f3cb2a2.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/62232217/174147698-080174b5-f4a3-447b-89a9-805cac9196ce.JPG)
@@ -28,7 +29,7 @@
 ![슬라이드28](https://user-images.githubusercontent.com/62232217/174147770-50540d90-e573-4181-9c1f-9318f9dc985d.JPG)
 ![슬라이드29](https://user-images.githubusercontent.com/62232217/174147774-560a3580-6849-4d39-ac27-4c2baffac050.JPG)
 ![슬라이드30](https://user-images.githubusercontent.com/62232217/174147775-1635ab9a-7d5a-4135-89af-c169fe8ed9a5.JPG)
-![슬라이드31](https://user-images.githubusercontent.com/62232217/174147777-431e7146-9abc-4da9-a543-b74d9f8c27fa.JPG)
+
 
 ## 시연 영상(gif 형태라 소리는 나지 않음)
 
